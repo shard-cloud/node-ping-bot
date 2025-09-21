@@ -1,0 +1,5 @@
+DISPLAY_NAME=bot de ping
+MAIN=index.js
+MEMORY=512
+VERSION=recommended
+LANGUAGE=node
