@@ -1,0 +1,10 @@
+{
+  "title": "ShardCloud Template — Node Ping Bot",
+  "ref": "main",
+  "items": [
+    { "file": "README.md", "label": "Visão Geral" },
+    { "file": "install.md", "label": "Instalação" },
+    { "file": "config.md", "label": "Configuração" },
+    { "file": "troubleshooting.md", "label": "Troubleshooting" }
+  ]
+}
